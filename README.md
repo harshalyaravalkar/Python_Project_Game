@@ -17,13 +17,17 @@ When player chooses to start game.
 Player can perform 3 actions by giving input of respective alphabets for:
 
 K = Kick
+<br>
 P = Punch
+<br>
 J = Jump
 
 initially the attributes Score, Life and Coins which defined as Private attributes are 0,3 and 0 respectively
 
 "Kick" action increments Score by 10
-"Punch" action increments Score by 5
+<br>
+"Punch" action increments Score by 5.
+<br>
 "Jump" action gains 2 coins
 
 Game is Over when player looses all of its 3 lives and that is programmed to happen every time when a loop randomly selects 3 from a tuple of integers 1 to 4,this action is defined as "Stab" action.
