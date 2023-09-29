@@ -22,7 +22,7 @@ P = Punch
 <br>
 J = Jump
 
-initially the attributes Score, Life and Coins which defined as Private attributes are 0,3 and 0 respectively
+initially the attributes Score, Life and Coins which are defined as Private attributes are 0,3 and 0 respectively
 
 "Kick" action increments Score by 10
 <br>
