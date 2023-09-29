@@ -1,4 +1,4 @@
-# here we start our code for game
+# here we start code for game
 import random # imports random module 
 class character():
     def __init__(s,name):
