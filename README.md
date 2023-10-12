@@ -1,4 +1,4 @@
-# Python_Project_Game
+# ScoreStriker-Python_Game
 This is my first project of python
 
 In this project I coded a simple game.
